@@ -1,0 +1,12 @@
+Bill,0.0
+Sam,0.0
+Gabe,0.0
+Dylan,1.0
+Jake,1.0
+Alex,0.0
+Kyle,2.0
+Matt,0.0
+Cody,0.0
+Tyler,0.0
+Nick,0.0
+Kirby,1.0
